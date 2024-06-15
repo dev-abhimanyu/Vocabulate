@@ -13,10 +13,11 @@
 
     <!-- On-boarding Colors-->
     <!-- Screens background color-->
-    <color name="bg_screen1">#f9b936</color><!--#f64c73,#ffd235-->
-    <color name="bg_screen2">#f9b936</color><!--#20d2bb-->
-    <color name="bg_screen3">#f9b936</color><!--#3395ff-->
-    <color name="bg_screen4">#f9b936</color><!--#c873f4-->
+    <!--#f9b936-->
+    <color name="bg_screen1">#FFF9C4</color><!--#f64c73,#ffd235-->
+    <color name="bg_screen2">#FFF9C4</color><!--#20d2bb-->
+    <color name="bg_screen3">#FFF9C4</color><!--#3395ff-->
+    <color name="bg_screen4">#FFF9C4</color><!--#c873f4-->
 
     <!-- dots inactive colors -->
     <color name="dot_dark_screen1">#033b3f</color><!--#d1395c-->
