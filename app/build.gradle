@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 36
+    compileSdkVersion 37
     defaultConfig {
         applicationId "com.abhimanyu.vocabulate"
         minSdkVersion 21
-        targetSdkVersion 36
-        versionCode 5
-        versionName "5.0"
+        targetSdkVersion 37
+        versionCode 6
+        versionName "6.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
